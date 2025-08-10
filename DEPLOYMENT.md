@@ -127,7 +127,7 @@ bash deploy_cloud.sh
    - Go to: `https://github.com/yourusername/research-digest-agent/settings/secrets/actions`
    - Add:
      - `EMAIL_USER` = `farizanjum2018@gmail.com`
-     - `EMAIL_PASSWORD` = `shff rnha ustw qxvu`
+     - `EMAIL_PASSWORD` = `app password`
      - `RECIPIENT_EMAIL` = `works.farizanjum@gmail.com`
 
 4. **Enable workflow**:
@@ -198,3 +198,4 @@ Choose your deployment method and enjoy automated daily AI research digests!
 - ✅ Send beautiful HTML emails to works.farizanjum@gmail.com
 - ✅ Skip weekends if no new papers
 - ✅ Log all activity for monitoring
+
