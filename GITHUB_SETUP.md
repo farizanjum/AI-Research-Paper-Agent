@@ -33,13 +33,7 @@ git push -u origin main
 1. Go to your new repo: `https://github.com/YOUR_USERNAME/research-digest-agent`
 2. Click **Settings** tab
 3. Click **Secrets and variables** → **Actions**
-4. Click **New repository secret** and add these **3 secrets**:
 
-| Secret Name | Your Secret Value |
-|-------------|------------------|
-| `EMAIL_USER` | farizanjum2018@gmail.com |
-| `EMAIL_PASSWORD` | shff rnha ustw qxvu |
-| `RECIPIENT_EMAIL` | works.farizanjum@gmail.com |
 
 ### Step 4: Enable GitHub Actions
 1. Go to **Actions** tab in your repo
@@ -80,3 +74,4 @@ Edit `.github/workflows/daily-digest.yml`:
 ## 🎉 YOU'RE ALL SET!
 
 Your autonomous AI research digest is ready to go! 🤖📚
+
