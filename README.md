@@ -2,6 +2,9 @@
 
 A simple, reliable research digest agent that automatically fetches recent AI research papers and delivers clean email summaries to your inbox.
 
+<img width="1425" height="711" alt="image" src="https://github.com/user-attachments/assets/3b10c560-ab0f-49e8-b80f-15448bcc5e92" />
+
+
 ## ✅ Features
 
 - **arXiv Paper Fetching** - Fetches recent AI/ML/NLP papers from arXiv
@@ -108,3 +111,4 @@ python C:\path\to\your\research-digest-agent\main.py
 ---
 
 **Simple. Reliable. Focused on what works.** 🎯
+
